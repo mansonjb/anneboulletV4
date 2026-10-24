@@ -1,0 +1,544 @@
+{
+ "oleron": [
+  {
+   "file": "oleron-01.jpg",
+   "src": "cahierNEWCO-4.jpg",
+   "w": 2400,
+   "h": 1600
+  },
+  {
+   "file": "oleron-02.jpg",
+   "src": "cahierNEWCO-9.png",
+   "w": 1600,
+   "h": 1067
+  },
+  {
+   "file": "oleron-03.jpg",
+   "src": "cahierNEWCO-32.jpg",
+   "w": 1067,
+   "h": 1600
+  },
+  {
+   "file": "oleron-04.jpg",
+   "src": "cahierNEWCO-3.jpg",
+   "w": 1600,
+   "h": 1067
+  },
+  {
+   "file": "oleron-05.jpg",
+   "src": "cahierNEWCO-5.jpg",
+   "w": 1600,
+   "h": 1067
+  },
+  {
+   "file": "oleron-06.jpg",
+   "src": "cahierNEWCO-6.jpg",
+   "w": 1600,
+   "h": 1067
+  },
+  {
+   "file": "oleron-07.jpg",
+   "src": "cahierNEWCO-10.jpg",
+   "w": 1600,
+   "h": 1067
+  },
+  {
+   "file": "oleron-08.jpg",
+   "src": "cahierNEWCO-18.png",
+   "w": 1600,
+   "h": 1067
+  },
+  {
+   "file": "oleron-09.jpg",
+   "src": "cahierNEWCO-20.png",
+   "w": 1600,
+   "h": 1067
+  },
+  {
+   "file": "oleron-10.jpg",
+   "src": "cahierNEWCO-24.jpg",
+   "w": 1067,
+   "h": 1600
+  },
+  {
+   "file": "oleron-11.jpg",
+   "src": "cahierNEWCO-27.jpg",
+   "w": 1067,
+   "h": 1600
+  },
+  {
+   "file": "oleron-12.jpg",
+   "src": "cahierNEWCO-35.jpg",
+   "w": 1067,
+   "h": 1600
+  },
+  {
+   "file": "oleron-13.jpg",
+   "src": "cahierNEWCO-44.png",
+   "w": 1023,
+   "h": 1537
+  },
+  {
+   "file": "oleron-14.jpg",
+   "src": "cahierNEWCO-47.jpg",
+   "w": 1067,
+   "h": 1600
+  },
+  {
+   "file": "oleron-15.jpg",
+   "src": "cahierNEWCO-59.jpg",
+   "w": 1067,
+   "h": 1600
+  },
+  {
+   "file": "oleron-16.jpg",
+   "src": "cahierNEWCO-63.jpg",
+   "w": 1067,
+   "h": 1600
+  }
+ ],
+ "ermitage": [
+  {
+   "file": "ermitage-01.jpg",
+   "src": "MC-1.jpg",
+   "w": 1600,
+   "h": 1068
+  },
+  {
+   "file": "ermitage-02.jpg",
+   "src": "MC-21.jpg",
+   "w": 1068,
+   "h": 1600
+  },
+  {
+   "file": "ermitage-03.jpg",
+   "src": "MC-3.jpg",
+   "w": 1600,
+   "h": 1068
+  },
+  {
+   "file": "ermitage-04.jpg",
+   "src": "MC-7.jpg",
+   "w": 1600,
+   "h": 1068
+  },
+  {
+   "file": "ermitage-05.jpg",
+   "src": "MC-11.jpg",
+   "w": 1068,
+   "h": 1600
+  },
+  {
+   "file": "ermitage-06.jpg",
+   "src": "MC-13.jpg",
+   "w": 1068,
+   "h": 1600
+  },
+  {
+   "file": "ermitage-07.jpg",
+   "src": "MC-16.jpg",
+   "w": 1068,
+   "h": 1600
+  },
+  {
+   "file": "ermitage-08.jpg",
+   "src": "MC-19.jpg",
+   "w": 1068,
+   "h": 1600
+  },
+  {
+   "file": "ermitage-09.jpg",
+   "src": "MC-23.jpg",
+   "w": 1068,
+   "h": 1600
+  },
+  {
+   "file": "ermitage-10.jpg",
+   "src": "MC-26.jpg",
+   "w": 1068,
+   "h": 1600
+  },
+  {
+   "file": "ermitage-11.jpg",
+   "src": "MC-33.jpg",
+   "w": 1068,
+   "h": 1600
+  },
+  {
+   "file": "ermitage-12.jpg",
+   "src": "MC-36.jpg",
+   "w": 1068,
+   "h": 1600
+  }
+ ],
+ "beguin": [
+  {
+   "file": "beguin-01.jpg",
+   "src": "cahierNEWCO.jpg",
+   "w": 1600,
+   "h": 1067
+  },
+  {
+   "file": "beguin-02.jpg",
+   "src": "cahierNEWCO-5.jpg",
+   "w": 1600,
+   "h": 1067
+  },
+  {
+   "file": "beguin-03.jpg",
+   "src": "cahierNEWCO-7.jpg",
+   "w": 1600,
+   "h": 1067
+  },
+  {
+   "file": "beguin-04.jpg",
+   "src": "cahierNEWCO-11.jpg",
+   "w": 1600,
+   "h": 1067
+  },
+  {
+   "file": "beguin-05.jpg",
+   "src": "cahierNEWCO-13.jpg",
+   "w": 1600,
+   "h": 1067
+  },
+  {
+   "file": "beguin-06.jpg",
+   "src": "cahierNEWCO-14.jpg",
+   "w": 1067,
+   "h": 1600
+  },
+  {
+   "file": "beguin-07.jpg",
+   "src": "cahierNEWCO-16.jpg",
+   "w": 1067,
+   "h": 1600
+  },
+  {
+   "file": "beguin-08.jpg",
+   "src": "cahierNEWCO-21.jpg",
+   "w": 1067,
+   "h": 1600
+  },
+  {
+   "file": "beguin-09.jpg",
+   "src": "cahierNEWCO-22.jpg",
+   "w": 1067,
+   "h": 1600
+  },
+  {
+   "file": "beguin-10.jpg",
+   "src": "cahierNEWCO-25.jpg",
+   "w": 1067,
+   "h": 1600
+  },
+  {
+   "file": "beguin-11.jpg",
+   "src": "cahierNEWCO-27.jpg",
+   "w": 1067,
+   "h": 1600
+  },
+  {
+   "file": "beguin-12.jpg",
+   "src": "cahierNEWCO-31.jpg",
+   "w": 1067,
+   "h": 1600
+  }
+ ],
+ "parpaillaud": [
+  {
+   "file": "parpaillaud-01.jpg",
+   "src": "MC-1.jpg",
+   "w": 1500,
+   "h": 1001
+  },
+  {
+   "file": "parpaillaud-02.jpg",
+   "src": "MC-2.jpg",
+   "w": 1500,
+   "h": 1001
+  },
+  {
+   "file": "parpaillaud-03.jpg",
+   "src": "MC-3.jpg",
+   "w": 1500,
+   "h": 1001
+  },
+  {
+   "file": "parpaillaud-04.jpg",
+   "src": "MC-6.jpg",
+   "w": 1001,
+   "h": 1500
+  },
+  {
+   "file": "parpaillaud-05.jpg",
+   "src": "MC-9.jpg",
+   "w": 1001,
+   "h": 1500
+  },
+  {
+   "file": "parpaillaud-06.jpg",
+   "src": "MC-14.jpg",
+   "w": 1001,
+   "h": 1500
+  },
+  {
+   "file": "parpaillaud-07.jpg",
+   "src": "MC-18.jpg",
+   "w": 1001,
+   "h": 1500
+  },
+  {
+   "file": "parpaillaud-08.jpg",
+   "src": "MC-24.jpg",
+   "w": 1001,
+   "h": 1500
+  },
+  {
+   "file": "parpaillaud-09.jpg",
+   "src": "MC-33.jpg",
+   "w": 1001,
+   "h": 1500
+  },
+  {
+   "file": "parpaillaud-10.jpg",
+   "src": "MC-41.jpg",
+   "w": 1001,
+   "h": 1500
+  },
+  {
+   "file": "parpaillaud-11.jpg",
+   "src": "MC-43.jpg",
+   "w": 1001,
+   "h": 1500
+  },
+  {
+   "file": "parpaillaud-12.jpg",
+   "src": "MC-48.jpg",
+   "w": 1001,
+   "h": 1500
+  },
+  {
+   "file": "parpaillaud-13.jpg",
+   "src": "MC-52.jpg",
+   "w": 1001,
+   "h": 1500
+  },
+  {
+   "file": "parpaillaud-14.jpg",
+   "src": "MC-56.jpg",
+   "w": 1001,
+   "h": 1500
+  },
+  {
+   "file": "parpaillaud-15.jpg",
+   "src": "MC-61.jpg",
+   "w": 1500,
+   "h": 1001
+  },
+  {
+   "file": "parpaillaud-16.jpg",
+   "src": "MC-67.jpg",
+   "w": 1001,
+   "h": 1500
+  }
+ ],
+ "saintclaude": [
+  {
+   "file": "saintclaude-01.jpg",
+   "src": "MC-1.jpg",
+   "w": 1500,
+   "h": 1001
+  },
+  {
+   "file": "saintclaude-02.jpg",
+   "src": "MC-2.jpg",
+   "w": 1500,
+   "h": 1001
+  },
+  {
+   "file": "saintclaude-03.jpg",
+   "src": "MC-5.jpg",
+   "w": 1500,
+   "h": 1001
+  },
+  {
+   "file": "saintclaude-04.jpg",
+   "src": "MC-6.jpg",
+   "w": 1001,
+   "h": 1500
+  },
+  {
+   "file": "saintclaude-05.jpg",
+   "src": "MC-9.jpg",
+   "w": 1001,
+   "h": 1500
+  },
+  {
+   "file": "saintclaude-06.jpg",
+   "src": "MC-12.jpg",
+   "w": 1001,
+   "h": 1500
+  },
+  {
+   "file": "saintclaude-07.jpg",
+   "src": "MC-15.jpg",
+   "w": 1001,
+   "h": 1500
+  },
+  {
+   "file": "saintclaude-08.jpg",
+   "src": "MC-19.jpg",
+   "w": 1001,
+   "h": 1500
+  },
+  {
+   "file": "saintclaude-09.jpg",
+   "src": "MC-25.jpg",
+   "w": 1001,
+   "h": 1500
+  },
+  {
+   "file": "saintclaude-10.jpg",
+   "src": "MC-29.jpg",
+   "w": 1001,
+   "h": 1500
+  },
+  {
+   "file": "saintclaude-11.jpg",
+   "src": "MC-33.jpg",
+   "w": 1001,
+   "h": 1500
+  },
+  {
+   "file": "saintclaude-12.jpg",
+   "src": "MC-36.jpg",
+   "w": 1001,
+   "h": 1500
+  }
+ ],
+ "bodilis": [
+  {
+   "file": "bodilis-01.jpg",
+   "src": "20260211_094759.jpg",
+   "w": 1600,
+   "h": 1200
+  },
+  {
+   "file": "bodilis-02.jpg",
+   "src": "20260211_093941.jpg",
+   "w": 1600,
+   "h": 1200
+  },
+  {
+   "file": "bodilis-03.jpg",
+   "src": "20260211_094333.jpg",
+   "w": 1600,
+   "h": 1200
+  },
+  {
+   "file": "bodilis-04.jpg",
+   "src": "20260211_094909.jpg",
+   "w": 1200,
+   "h": 1600
+  },
+  {
+   "file": "bodilis-05.jpg",
+   "src": "20260211_095146.jpg",
+   "w": 1200,
+   "h": 1600
+  },
+  {
+   "file": "bodilis-06.jpg",
+   "src": "20260211_095522.jpg",
+   "w": 1600,
+   "h": 1200
+  },
+  {
+   "file": "bodilis-07.jpg",
+   "src": "20260211_095709.jpg",
+   "w": 1200,
+   "h": 1600
+  },
+  {
+   "file": "bodilis-08.jpg",
+   "src": "20260211_095927.jpg",
+   "w": 1200,
+   "h": 1600
+  }
+ ],
+ "maternite": [
+  {
+   "file": "maternite-01.jpg",
+   "src": "MC-2.jpg",
+   "w": 1600,
+   "h": 1068
+  },
+  {
+   "file": "maternite-02.jpg",
+   "src": "MC-1.jpg",
+   "w": 1600,
+   "h": 1068
+  },
+  {
+   "file": "maternite-03.jpg",
+   "src": "MC-4.jpg",
+   "w": 1600,
+   "h": 1068
+  },
+  {
+   "file": "maternite-04.jpg",
+   "src": "MC-6.jpg",
+   "w": 1068,
+   "h": 1600
+  },
+  {
+   "file": "maternite-05.jpg",
+   "src": "MC-7.jpg",
+   "w": 1068,
+   "h": 1600
+  },
+  {
+   "file": "maternite-06.jpg",
+   "src": "MC-11.jpg",
+   "w": 1068,
+   "h": 1600
+  },
+  {
+   "file": "maternite-07.jpg",
+   "src": "MC-13.jpg",
+   "w": 1600,
+   "h": 1068
+  },
+  {
+   "file": "maternite-08.jpg",
+   "src": "MC-14.jpg",
+   "w": 1068,
+   "h": 1600
+  },
+  {
+   "file": "maternite-09.jpg",
+   "src": "MC-19.jpg",
+   "w": 1068,
+   "h": 1600
+  },
+  {
+   "file": "maternite-10.jpg",
+   "src": "MC-21.jpg",
+   "w": 1068,
+   "h": 1600
+  },
+  {
+   "file": "maternite-11.jpg",
+   "src": "MC-24.jpg",
+   "w": 1068,
+   "h": 1600
+  },
+  {
+   "file": "maternite-12.jpg",
+   "src": "MC-27.jpg",
+   "w": 1068,
+   "h": 1600
+  }
+ ]
+}
